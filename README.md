@@ -16,7 +16,7 @@ Place your own data as a txt file in the data folder or modify the data.txt in t
 
 Checking on myResume.txt file
 
-``` >python gpt.py "what is my email in resume"
-what is my email in resume
+```
+> python gpt.py "what is my email in resume"
 Based on the information provided in the resume, your email address is adhikaryjayanta@outlook.com.
 ```
