@@ -1,0 +1,29 @@
+RESUME
+
+JAYANTA ADHIKARY
+LinkedIn: jayanta-adhikary | Github: jayantaadhikary Email: adhikaryjayanta@outlook.com
+EDUCATION:
+2020 - 2024 | Sikkim Manipal Institute of Technology, Sikkim
+Bachelor of Technology - Information Technology - 9.35 CGPA 2018 - 2020 | Delhi Public School Dhaligaon, Assam
+Class 12th (AISSCE) - 69.6%
+2006 - 2018 | Delhi Public School Dhaligaon, Assam
+Class 10th (AISSE) - 85.6%
+EXPERIENCE:
+Information Systems Trainee
+Indian Oil Corporation Limited, Digboi | June, 2022 - July, 2022
+Implemented LDAP protocol in an authentication system.
+Composed server in NodeJS to support LDAP servers using a module known as ldapjs. Made a mock frontend using ReactJS to test the backend.
+TECHNICAL SKILLS:
+Languages: Python, Javascript, Java, SQL, HTML/CSS Frameworks/Libraries: ReactJS, React Native, NodeJS Developer Tools: Postman, npm, vim
+Version Control: Git, Github
+INTERPERSONAL SKILLS
+Languages: English, Hindi, Assamese
+Time Management, Teamwork, Communication Dependability & Multitasking
+PROJECTS:
+Student Information App (Mini Project for University) React Native | Feb-April 2023
+Developed a cross-platform application where students can log in and check their details. Details such as Marks, personal details & attendance displayed were fetched from the central database of the institute.
+Used React Native for building this cross-platform application.
+Coders Meetup
+ReactJS | January 2023
+Developed a website allowing people to view, add & favorite Meetups.
+Used React for the front-end and Firebase for the realtime database. This project helped me master the fundamentals of React.
